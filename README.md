@@ -1,5 +1,6 @@
 🎯 Voice Distance and Object Detection
-This project combines real-time object detection, approximate distance estimation, and voice alerts into a single application. It uses a TensorFlow-based custom-trained model to detect objects from a webcam feed, estimates how close they are, and plays audio warnings when they're too near.
+This project combines real-time object detection, approximate distance estimation, and voice alerts into a single application. 
+It uses a TensorFlow-based custom-trained model to detect objects from a webcam feed, estimates how close they are, and plays audio warnings when they're too near.
 
 🚀 Features
 Object detection from webcam video (e.g., cars, people)
@@ -31,4 +32,5 @@ frozen_inference_graph.pb inside the inference_graph folder
 labelmap.pbtxt inside the training folder
 
 💡 Notes
-This project was built for personal learning and experimentation with computer vision, audio synthesis, and real-time processing.
+This project was supported by TÜBİTAK 2209-A program in Turkey and was presented as a conference paper at two different conferences. 
+If you would like to access the publications, feel free to contact me.
