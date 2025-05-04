@@ -6,11 +6,9 @@ Object detection from webcam video (e.g., cars, people)
 
 Lane or line detection using Hough Transform
 
-Approximate distance calculation based on bounding box size
+Approximate distance calculation
 
 Audio alerts in Turkish using gTTS when objects are too close
-
-Video recording with object overlay (saved as .avi)
 
 🛠 Requirements
 Python 3
